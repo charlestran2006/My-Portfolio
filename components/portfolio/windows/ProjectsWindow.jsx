@@ -10,9 +10,9 @@ const demoProjects = [
     githubUrl: "#",
   },
   {
-    title: "Data Viz Playground",
-    description: "Interactive charts and dashboards for quick experiments.",
-    tags: ["D3", "Vega", "React"],
+    title: "to be added",
+    description: "to be added",
+    tags: [":P"],
     liveUrl: "#",
     githubUrl: "#",
   },

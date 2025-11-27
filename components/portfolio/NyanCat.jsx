@@ -90,7 +90,7 @@ export default function NyanCat() {
                 </AnimatePresence>
             </motion.div>
             
-            <p className="absolute -bottom-2 text-xs text-gray-400 font-mono">click me! 🌈</p>
+            <p className="absolute -bottom-2 text-xs text-gray-400 font-mono">nyancat</p>
         </div>
     );
 }

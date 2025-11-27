@@ -48,7 +48,7 @@ export default function TrollFace() {
                 <div className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 w-2 h-2 bg-black rotate-45" />
             </motion.div>
             
-            <p className="text-center mt-2 text-xs text-gray-400 font-mono">click to frown!</p>
+            <p className="text-center mt-2 text-xs text-gray-400 font-mono">trolled</p>
         </motion.div>
     );
 }
