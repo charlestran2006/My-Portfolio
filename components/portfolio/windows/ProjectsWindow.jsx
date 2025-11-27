@@ -6,15 +6,15 @@ const demoProjects = [
     title: "Portfolio (this)",
     description: "Windows-style portfolio with draggable windows and playful UI.",
     tags: ["Next.js", "React", "Tailwind", "Framer Motion"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://github.com/charlestran2006",
+    githubUrl: "https://github.com/charlestran2006",
   },
   {
     title: "to be added",
     description: "to be added",
     tags: [":P"],
-    liveUrl: "#",
-    githubUrl: "#",
+    liveUrl: "https://github.com/charlestran2006",
+    githubUrl: "https://github.com/charlestran2006",
   },
 ];
 

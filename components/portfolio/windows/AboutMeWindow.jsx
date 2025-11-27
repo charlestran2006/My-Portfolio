@@ -12,7 +12,7 @@ export default function AboutMeWindow() {
         Kudos to you if you recognize the references!
       </p>
       <ul className="mt-4 text-sm list-disc pl-5 space-y-1">
-        <h>Built with ❤️ using modern web technologies</h>
+        <h>Built with VSCode using modern web technologies</h>
         <li>React + Next.js + Tailwind</li>
         <li>Framer Motion animations</li>
         <li>Over 9000 hours of tutorials</li>
