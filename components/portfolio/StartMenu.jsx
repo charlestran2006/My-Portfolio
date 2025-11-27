@@ -32,7 +32,7 @@ export default function StartMenu({ isOpen, onClose, onOpenWindow, apps }) {
                     <div className="w-12 h-12 rounded-sm bg-gradient-to-br from-blue-400 to-blue-600 flex items-center justify-center border-2 border-white shadow-md">
                         <User className="w-7 h-7 text-white" />
                     </div>
-                    <span className="text-gray-800 font-semibold text-sm">Your Name</span>
+                    <span className="text-gray-800 font-semibold text-sm">Hello There, User!</span>
                 </div>
 
                 {/* Two Column Layout */}
@@ -128,7 +128,7 @@ export default function StartMenu({ isOpen, onClose, onOpenWindow, apps }) {
                             boxShadow: '0 1px 2px rgba(0,0,0,0.1)'
                         }}
                     >
-                        ▶
+                        I see you!
                     </button>
                 </div>
             </motion.div>

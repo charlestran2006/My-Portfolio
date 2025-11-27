@@ -131,7 +131,7 @@ npm run dev
 
 Runs at:
 
-http://localhost:3000
+http://localhost:3000/Portfolio
 
 🏗️ Build for Production
 npm run build

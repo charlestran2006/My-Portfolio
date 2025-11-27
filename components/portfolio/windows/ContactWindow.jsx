@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Send, Mail, Github, Linkedin, Twitter } from 'lucide-react';
+import { Send, Mail, Github, Linkedin, } from 'lucide-react';
 import { toast } from 'sonner';
 
 export default function ContactWindow() {
@@ -17,10 +17,9 @@ export default function ContactWindow() {
     };
 
     const socialLinks = [
-        { icon: Github, label: 'GitHub', href: '#', color: 'hover:text-gray-900' },
-        { icon: Linkedin, label: 'LinkedIn', href: '#', color: 'hover:text-blue-600' },
-        { icon: Twitter, label: 'Twitter', href: '#', color: 'hover:text-sky-500' },
-        { icon: Mail, label: 'Email', href: 'mailto:hello@example.com', color: 'hover:text-red-500' },
+        { icon: Github, label: 'GitHub', href: 'https://github.com/charlestran2006', color: 'hover:text-gray-900' },
+        { icon: Linkedin, label: 'LinkedIn', href: 'linkedin.com/in/charlesmtran/', color: 'hover:text-blue-600' },
+        { icon: Mail, label: 'Email', href: 'mailto:cmt423@drexel.edu', color: 'hover:text-red-500' },
     ];
 
     return (
